@@ -34,8 +34,8 @@ Tips to get the most out of this bootcamp:
 
 ## Daily Schedule
 
-Before the lecture
-Download the day's GitHub repo.
+Before the lecture: 
+Download the day's materials from the GitHub repo - instructions are at the end of this document.
 
 10:00 am – Noon Central	
 Zoom lecture/code along
@@ -49,7 +49,7 @@ Please note – there is new information that you need to learn in the Homework 
 Take the daily quiz - test yourself and get some more practice. Answer key is provided.
 Post questions in the Discussion section of Canvas if you want to get opinions from your classmates.
 
-If you are not following this schedule, you should complete all the homework and the daily quiz before the next day’s 10 am lecture. 
+If you are not following this schedule, you should complete all the homework and the daily quiz before the next day’s 10 am lecture or before you watch the next lecture recording. 
 
 Feel free to email me your questions at any time of day or night – I will set aside time to answer email questions during the day and before the 10 am lectures.
 
