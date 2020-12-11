@@ -34,22 +34,22 @@ Tips to get the most out of this bootcamp:
 
 ## Daily Schedule
 
-Before the lecture
-Download the day's GitHub repo.
+Before the lecture: 
+<br>Download the day's materials from the GitHub repo - instructions are at the end of this document.
 
 10:00 am – Noon Central	
-Zoom lecture/code along
-Cameras not required, so it’s ok to wear your pajamas. Make sure you have coffee and a snack. Maybe get some exercise before the lecture to approach the day with energy. Or sleep in, whatever you need. If you have questions during the lecture, please put them in the Zoom chat. Feel free to answer questions in the chat if you know the answer! I will politely correct you if you get it wrong.
-If you can't make the live lecture, watch the recording - posted around 1 pm Central each day.
+<br>Zoom lecture/code along
+<br>Cameras not required, so it’s ok to wear your pajamas. Make sure you have coffee and a snack. Maybe get some exercise before the lecture to approach the day with energy. Or sleep in, whatever you need. If you have questions during the lecture, please put them in the Zoom chat. Feel free to answer questions in the chat if you know the answer! I will politely correct you if you get it wrong.
+<br>If you can't make the live lecture, watch the recording - posted around 1 pm Central each day.
 
 Noon – 4 pm		
-Take a lunch break.
-Complete daily homework exercises
-Please note – there is new information that you need to learn in the Homework assignments. They are not just practice. Answer keys are also provided. 
-Take the daily quiz - test yourself and get some more practice. Answer key is provided.
-Post questions in the Discussion section of Canvas if you want to get opinions from your classmates.
+<br>Take a lunch break.
+<br>Complete daily homework exercises
+<br>Please note – there is new information that you need to learn in the Homework assignments. They are not just practice. Answer keys are also provided. 
+<br>Take the daily quiz - test yourself and get some more practice. Answer key is provided.
+<br>Post questions in the Discussion section of Canvas if you want to get opinions from your classmates.
 
-If you are not following this schedule, you should complete all the homework and the daily quiz before the next day’s 10 am lecture. 
+If you are not following this schedule, you should complete all the homework and the daily quiz before the next day’s 10 am lecture or before you watch the next lecture recording. 
 
 Feel free to email me your questions at any time of day or night – I will set aside time to answer email questions during the day and before the 10 am lectures.
 
