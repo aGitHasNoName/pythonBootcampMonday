@@ -8,95 +8,127 @@
 
 #### In this document
 - Note from the instructor
-- Suggested daily schedule
-- Weekly schedule
-- Tasks to complete before the first day
-- How to open Jupyter Notebooks
+- Structure of the Bootcamp (including instructions on where to find the Zoom links)
+- How to Access the Materials
 
 
 ## Note
 
 Python is an excellent choice for learning a coding language for two reasons. One, it is a great all-purpose language, used to automate tasks, clean data, run statistical and machine learning models, produce visualizations, write software, analyze text, scrape the web, etc., etc. Two, Python is known for having a shallow learning curve. You can do a lot with basic skills.
 
-Will you really learn Python in a one-week bootcamp? Absolutely, if you can dedicate the week to learning. If you are feeling overwhelmed, remember you will have the materials to review even after the workshop ends. If you feel like the workshop is moving too slowly, great! 
+Will you really learn Python in a one-week bootcamp? Absolutely, if you can dedicate the time to learning. If you are feeling overwhelmed, remember you will have the materials to review even after the workshop ends. If you feel like the workshop is moving too slowly, great!
 
-This bootcamp focuses on giving you the confidence to know that you can use logic to solve any problem in Python. 
+This bootcamp focuses on giving you the confidence to know that you can use logic to solve any problem in Python.
 
 
 Tips to get the most out of this bootcamp:
--	Prioritize your learning. As best you can, try to minimize your other obligations for the week. Reschedule other meetings, let coworkers know that you’re going to be unavailable, etc.
--	Take actual breaks. Learning a new skill takes a lot of energy and brain power, so when you take a break from Python, walk away from your computer.
--	Get comfortable. The remote format hopefully means that you have more control over your learning environment than sitting in a classroom. Wear your softest slippers, drink coffee, buy your favorite snacks to munch on this week. 
--	Use Google. Professional Python coders use Google all day every day to look up the correct way to code. There’s no reason to store every function name in your memory. Instead, we’ll focus on how things fit together. 
--	If Python isn't your first coding language, try to go into it with an open mind. I often hear R coders, for example, say things like "That makes no sense!" or "They should have made it work a different way." That may be true or not, but it won't ever change how Python is written, and it could prevent you from making progress. 
+- Prioritize your learning. If you are taking the bootcamp live, try to minimize your other obligations for the week. Reschedule other meetings, let coworkers know that you’re going to be unavailable, etc.
+- Take actual breaks. Learning a new skill takes a lot of energy and brain power, so when you take a break from Python, walk away from your computer.
+- Get comfortable. The remote format hopefully means that you have more control over your learning environment than sitting in a classroom. Wear your softest slippers, drink coffee, buy your favorite snacks to munch on this week. You may think of computer programmers as sloppy people drinking soda and eating potato chips (thanks a lot, Jurassic Park) or as fancy people eating protein bars and drinking smoothies in Silicon Valley. The truth is that computer programmers come in every single type of person, but the common thread is you'll want some good snacks!
+- If Python isn't your first coding language: I highly recommend that you go into learning a new language with an open mind. If you are coming from R, please note that Python and R are fundamentally different languages - Python is an Object Oriented language and R is a Functional language. There isn't always a direct translation between R and Python, and there are going to be things that seem strange and inconvenient. (People going from Python to R feel the same way!) Please note that this workshop is paced for beginning coders, so I will not be answering questions about how to do complex things in Python during the first days of the bootcamp. There will be time during Friday's lecture to ask more complicated questions about things that weren't covered. If things are going too slow for you, feel free to watch the recorded lectures at a faster speed or even work through the lecture notebooks on your own. I am also available by email to answer more advanced questions.
 
 
+## Structure of the Bootcamp
 
-## Daily Schedule
+There are two ways to participate in the bootcamp: live or asynchronously. Keeping up with the bootcamp live (attending the live Zoom lectures and completing each day's homework) is a great way to provide yourself with the accountability to actually finish the materials and learn Python in a week. There's nothing like a deadline to help you get something done! However, you can also participate asynchronously. I know that some of you are in different timezones or have to miss lectures because of other commitments. Please keep in mind that the materials are designed to be completed in order (starting with Monday's materials, and continuing through the days of the week).
 
-Before the lecture: 
-<br>Download the day's materials from the GitHub repo - instructions are at the end of this document.
+The materials are structured like the days of the week:
 
-10:00 am – Noon Central	
-<br>Zoom lecture/code along
-<br>Cameras not required, so it’s ok to wear your pajamas. Make sure you have coffee and a snack. Maybe get some exercise before the lecture to approach the day with energy. Or sleep in, whatever you need. If you have questions during the lecture, please put them in the Zoom chat. Feel free to answer questions in the chat if you know the answer! I will politely correct you if you get it wrong.
-<br>If you can't make the live lecture, watch the recording - posted around 1 pm Central each day.
+Monday - lecture, homework, quiz
 
-Noon – 4 pm		
-<br>Take a lunch break.
-<br>Complete daily homework exercises
-<br>Please note – there is new information that you need to learn in the Homework assignments. They are not just practice. Answer keys are also provided. 
-<br>Take the daily quiz - test yourself and get some more practice. Answer key is provided.
-<br>Post questions in the Discussion section of Canvas if you want to get opinions from your classmates.
+Tuesday - lecture, homework, quiz
 
-If you are not following this schedule, you should complete all the homework and the daily quiz before the next day’s 10 am lecture or before you watch the next lecture recording. 
+Wednesday - lecture, homework, quiz
 
-Feel free to email me your questions at any time of day or night – I will set aside time to answer email questions during the day and before the 10 am lectures.
+Thursday - lecture, homework, quiz
+
+Friday - lecture (no homework or quiz)
+
+The homework and quizzes are self-graded; answer keys are provided - you do not need to turn anything in.
+
+### Lectures
+
+**Before the lecture:**
+Open up the day's lecture notebook - see below for How to Access Materials
+
+**Live: 10:00 am – Noon Central**
+- Zoom lecture/code along
+- Cameras not required, so it’s ok to wear your pajamas. Make sure you have coffee and a snack. Maybe get some exercise before the lecture to approach the day with energy. Or sleep in, whatever you need.
+- If you have questions during the lecture, please put them in the Zoom chat. Feel free to answer questions in the chat if you know the answer! I will politely correct you if you get it wrong. The TA or I will answer questions in the chat during the lecture. On days when I don't have a TA, I will answer questions in the chat while you are completing exercises.
+
+**Asynchronous: Watch the lecture recording**
+- If you can't make the live lecture, watch the recording at a time that works for you to start your day
+- Recordings will be posted around 1 pm Central each day.
+
+### Daily Homework and Quiz
+
+The homework and quizzes are self-graded; answer keys are provided - you do not need to turn anything in.
+
+Monday through Thursday materials include 2 or 3 daily homework notebooks/assignments plus a quiz. I estimate the homework/quiz will take you 2-3 hours to complete, but this will depend on your grasp of the material, your previous coding experience, and whether or not you tend to overthink things!!
+
+**Homework assignments contain new material. They are not just practice. You need to complete them before attending or watching the next day's lecture.** Quizzes are meant just for checking your progress.
+
+### How to Get Help Outside of the Lecture
+
+- Post questions in the Discussions section (in the blue course menu on the left of this page) if you want to get help and opinions from your classmates.
+- Answer questions in the Discussions section - answering questions is a great way to improve your own skills.
+- Email me, or email the TA (emails listed at the top of the page). Feel free to send emails at any time of day or night – both the TA and I will set aside time to answer email questions during the day.
 
 
-## Weekly schedule
+## How to Access Materials
 
-A more thorough schedule will be provided on the first day. 
+For much of the bootcamp, we will be coding in Python inside Jupyter Notebooks. Jupyter Notebooks are coding notebooks that combine Python code with text and images. In Thursday's class, I will talk more about what Jupyter Notebooks are exactly and how you will use them to write your own code.
 
-In general, Monday, Tuesday, and Wednesday will cover the Python language. On Thursday, you will learn how to put your skills into practice by writing and running a Python script. On Friday, we will work with a dataset in the Pandas module, which lets you shape data into rows and columns within Python.
+There are two ways to access and use materials for this workshop: on your own computer or online. Either way is fine for this workshop.
 
+### On your own computer
+Summary: Before the workshop begins, you will need to install Anaconda, which includes Python and Jupyter Lab (a Python IDE that can open Jupyter Notebooks). Each day, you will need to download the day's materials to your computer.
 
-## Tasks to complete before the first day
+Installing Anaconda
 
 We will be using the latest version of Python – currently 3.7, 3.8 or 3.9.
 
-You can install Python on your computer or you can access it online. Either way is fine for this workshop.
-
 To install Python on your computer, install a software bundle called Anaconda.
 
-**If you have never installed Anaconda on your computer before:**
+If you have never installed Anaconda on your computer before:
+- Go to this website: https://www.anaconda.com/products/individual (Links to an external site.)
+- Choose the correct operating system (Mac, Windows, Linux) and click the “Download” button.
+- You will want the Graphical Installer. If you use a Surface, you may need the 32-bit version.
 
-Go to this website: https://www.anaconda.com/products/individual
-Click the “Download” button.
-Choose the correct installation for your computer.
-When installing Anaconda, you may be asked whether you want to install Visual Studio Code as well. This is up to you. We do not use it explicitly in the workshops.
-
-Email me if you have issues installing Anaconda. 
+Email me if you have issues installing Anaconda.
 
 If you get Anaconda installed, open the Anaconda Navigator. Open Jupyter Lab (it will open in your web browser, but it actually doesn’t need the internet). Launch a new Python 3 Notebook. If this works, you’re good to go.
 
-If you cannot install Anaconda on your computer or if you have too many issues with the installation, don’t worry. You can access the materials and write code in the Python language online. You will be using Google Colab, and I will provide more instructions on Monday.
+If you cannot install Anaconda on your computer or if you have too many issues with the installation, don’t worry. You can access the materials online for now (see option 2 below) and I can help you later. I will not have time to troubleshoot installation issues during lectures.
 
-**If you already have Python 2 installed with Anaconda:**
+In Thursday's class, I will talk more about what Anaconda is and what other tools it provides.
 
-You can either try to get Python 3 working with Jupyter on your computer following these steps: https://sites.northwestern.edu/researchcomputing/resources/adding-python-3-to-jupyter-notebook/
+Downloading the materials
 
-Or, you can access the materials and write code in the Python language online. You will be using Google Colab, and I will provide more instructions on Monday.
+For each day of the workshop, before the live lecture or before you begin watching the lecture recording, download the appropriate materials. To download the materials: Go to the appropriate GitHub link below. Click on the green Code button and choose Download Zip. Unzip the folder on your computer. Open Jupyter Lab through the Anaconda Navigator. In the file tree on the left side of the screen, navigate to the folder you just downloaded and open the lecture notebook.
 
+#### Daily GitHub Links
 
-## How to open Jupyter Notebooks
+[Monday](https://github.com/aGitHasNoName/pythonBootcampMonday)
+Tuesday: Coming Soon
+Wednesday: Coming Soon
+Thursday: Coming Soon
+Friday: Coming Soon
 
-Many of the lectures, homeworks, and quizzes will be in a Jupyter Notebook format. You have two options for opening the notebooks.
-This example uses the Monday lecture:
+### Online
 
-If you are running Jupyter Lab on your own computer:
-- Go to https://github.com/aGitHasNoName/pythonBootcampMonday. Click on the green Code button and choose Download ZIP.  Unzip that folder. Open Anaconda Navigator and open Jupyter Lab. Navigate to the folder you just unzipped. Open mondayLecture.ipynb
+Summary: You will be using Google Colab, a free online site for opening Jupyter Notebooks. 
 
-If you are using Google Colab (online):
-- Go to colab.research.google.com. Choose GitHub on the orange menu. Search for agithasnoname/pythonbootcampmonday. Choose mondayLecture.ipynb
+For each day of the workshop, before the live lecture or before you begin watching the lecture recording, click on the appropriate link below for the day's lecture. Links are also provided for the Homework and Quizzes.
 
+#### Daily Colab Links
+
+[Monday Lecture](https://colab.research.google.com/github/aGitHasNoName/pythonBootcampMonday/blob/master/mondayLecture.ipynb)
+[Monday HW1](https://colab.research.google.com/github/aGitHasNoName/pythonBootcampMonday/blob/master/mondayHW1.ipynb) 
+[Monday HW2](https://colab.research.google.com/github/aGitHasNoName/pythonBootcampMonday/blob/master/mondayHW2.ipynb) 
+[Monday Quiz](https://colab.research.google.com/github/aGitHasNoName/pythonBootcampMonday/blob/master/mondayQuiz.ipynb) 
+
+Monday Answer Keys:
+[Monday HW1 Answers](https://colab.research.google.com/github/aGitHasNoName/pythonBootcampMonday/blob/master/mondayHW1-Answers.ipynb)
+[Monday HW2 Answers](https://colab.research.google.com/github/aGitHasNoName/pythonBootcampMonday/blob/master/mondayHW2-Answers.ipynb)
+[Monday Quiz Answers](https://colab.research.google.com/github/aGitHasNoName/pythonBootcampMonday/blob/master/mondayQuiz-Answers.ipynb)
