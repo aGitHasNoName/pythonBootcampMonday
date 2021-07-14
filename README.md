@@ -110,10 +110,10 @@ For each day of the workshop, before the live lecture or before you begin watchi
 #### Daily GitHub Links
 
 [Monday](https://github.com/aGitHasNoName/pythonBootcampMonday)
-Tuesday: Coming Soon
-Wednesday: Coming Soon
-Thursday: Coming Soon
-Friday: Coming Soon
+<br>[Tuesday](https://github.com/aGitHasNoName/pythonBootcampTuesday)
+<br>[Wednesday](https://github.com/aGitHasNoName/pythonBootcampWednesday)
+<br>[Thursday](https://github.com/aGitHasNoName/pythonBootcampThursday)
+<br>[Friday](https://github.com/aGitHasNoName/pythonBootcampFriday)
 
 ### Online
 
@@ -124,11 +124,11 @@ For each day of the workshop, before the live lecture or before you begin watchi
 #### Daily Colab Links
 
 [Monday Lecture](https://colab.research.google.com/github/aGitHasNoName/pythonBootcampMonday/blob/master/mondayLecture.ipynb)
-[Monday HW1](https://colab.research.google.com/github/aGitHasNoName/pythonBootcampMonday/blob/master/mondayHW1.ipynb) 
-[Monday HW2](https://colab.research.google.com/github/aGitHasNoName/pythonBootcampMonday/blob/master/mondayHW2.ipynb) 
-[Monday Quiz](https://colab.research.google.com/github/aGitHasNoName/pythonBootcampMonday/blob/master/mondayQuiz.ipynb) 
+<br>[Monday HW1](https://colab.research.google.com/github/aGitHasNoName/pythonBootcampMonday/blob/master/mondayHW1.ipynb) 
+<br>[Monday HW2](https://colab.research.google.com/github/aGitHasNoName/pythonBootcampMonday/blob/master/mondayHW2.ipynb) 
+<br>[Monday Quiz](https://colab.research.google.com/github/aGitHasNoName/pythonBootcampMonday/blob/master/mondayQuiz.ipynb) 
 
 Monday Answer Keys:
-[Monday HW1 Answers](https://colab.research.google.com/github/aGitHasNoName/pythonBootcampMonday/blob/master/mondayHW1-Answers.ipynb)
-[Monday HW2 Answers](https://colab.research.google.com/github/aGitHasNoName/pythonBootcampMonday/blob/master/mondayHW2-Answers.ipynb)
-[Monday Quiz Answers](https://colab.research.google.com/github/aGitHasNoName/pythonBootcampMonday/blob/master/mondayQuiz-Answers.ipynb)
+<br>[Monday HW1 Answers](https://colab.research.google.com/github/aGitHasNoName/pythonBootcampMonday/blob/master/mondayHW1-Answers.ipynb)
+<br>[Monday HW2 Answers](https://colab.research.google.com/github/aGitHasNoName/pythonBootcampMonday/blob/master/mondayHW2-Answers.ipynb)
+<br>[Monday Quiz Answers](https://colab.research.google.com/github/aGitHasNoName/pythonBootcampMonday/blob/master/mondayQuiz-Answers.ipynb)
